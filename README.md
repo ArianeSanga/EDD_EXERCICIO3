@@ -1,3 +1,2 @@
 # EDD_EXERCICIO3
-Ariane Minguini Sanga
-Ellen Golçalves
+Ariane Minguini Sanga e Ellen Golçalves
