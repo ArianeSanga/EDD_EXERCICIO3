@@ -1,2 +1,2 @@
 # EDD_EXERCICIO3
-Exercício Avaliatico 3
+Ariane Sanga e Ellen Golçalves
